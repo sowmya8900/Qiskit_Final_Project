@@ -3,6 +3,7 @@ Qiskit Global Summer School is a two-week intensive summer school designed to em
 
 This is the final project for the Qiskit lab.
 Detailed instructions is provided in the jupyter notebook.
+
 ###################################
 
 PROJECT PLAN
