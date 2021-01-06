@@ -21,6 +21,6 @@ This project contains documentation on all the following steps undertaken during
 6. Classically solve for the lowest eigenvalue 
 7. Choosing the components to make the VQE algorithm 
 8. Compare the convergence of different choices for building your VQE algorithm 
-9. Compute the ground state energy of LiH at various different interatomic distances 
-10.Create full graph for all 
-11.Compare the results with the ideal case
+9. Compute the ground state energy of LiH at various different interatomic distances
+10. Create full graph for all
+11. Compare the results with the ideal case
